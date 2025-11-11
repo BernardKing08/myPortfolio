@@ -257,7 +257,7 @@ body {
 --------------------------------------------------------------*/
 section {
     min-height: 100vh;
-    padding: 100px 20px 50px;
+    padding: 50px 20px 50px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -279,11 +279,11 @@ section p {
 # Hero Section
 --------------------------------------------------------------*/
 .hero {
-    padding-top: 50px;
+    padding-top: 20px;
     min-height: 100vh;
     display: flex;
     align-items: center;
-    padding-bottom: 80px;
+    padding-bottom: 30px;
     background: linear-gradient(135deg, var(--background-color) 0%, #f9f9f9 100%);
     position: relative;
     overflow: hidden;
@@ -687,7 +687,7 @@ section p {
 # Resume Section
 --------------------------------------------------------------*/
 .resume {
-    padding: 100px 20px 50px;
+    padding: 50px 20px 50px;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -1140,7 +1140,7 @@ section p {
   }
 }
 
-    /*--------------------------------------------------------------
+/*--------------------------------------------------------------
 # Contact Section
 --------------------------------------------------------------*/
 
